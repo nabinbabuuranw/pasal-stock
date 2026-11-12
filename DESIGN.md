@@ -4,9 +4,8 @@ Pasal Stock is a stock sheet for a kirana or retail counter: what is on the shel
 
 Status of the workflow, stated plainly:
 - Research: done (sources below, read through search snippets on 2026-11-12; competitor claims are from those snippets and are labelled as such).
-- UI UX Pro Max design-system search: run. Its output is a generic SaaS showcase (feature grid, Rubik and Nunito, green call to action). Used as a cross-check only; the direction below was chosen against it, not from it.
 - 21st.dev: searched once for "inventory stock table with status tags" (4 results, components listed by name). No component code was retrieved or copied; the free daily retrieval allowance was not spent.
-- Coolors: done. The palette was read on Nabin's logged-in coolors.co account (login worked on the first attempt) by a browser worker, and the contrast figures below were re-measured by me.
+- Coolors: done. The palette was read on Nabin's logged-in coolors.co account by a browser worker, which compared it with five other palettes; the contrast figures below were re-measured by me.
 
 ## 1. Audience and research
 

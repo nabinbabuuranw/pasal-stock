@@ -67,5 +67,5 @@ Four screenshots were looked at by the builder: home at 375 and 1440, the owner 
 
 ## 5. Versions
 
-- Node 22.23.3 (test runner and local server); Python 3 with Playwright (Chromium 1248 on the box); axe-core 4.14.0 (qa/axe.min.js, MIT).
+- Node 22.23.3 (test runner and local server); Python 3 with Playwright 1.64.1 (Chromium 156.0.8078.4 on the box); axe-core 4.14.0 (qa/axe.min.js, MIT).
 - Fonts: Fontsource 5.3.0 packages (OFL 1.1).
