@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="i-bin" viewBox="0 0 24 24"><path d="M4 5h16v14H4zM4 9h16M9 9v10"/></symbol>
+<symbol id="i-in" viewBox="0 0 24 24"><path d="M12 3v11M7.5 9.5 12 14l4.5-4.5M4 17v3h16v-3"/></symbol>
+<symbol id="i-out" viewBox="0 0 24 24"><path d="M12 14V3M7.5 7.5 12 3l4.5 4.5M4 17v3h16v-3"/></symbol>
+<symbol id="i-tag" viewBox="0 0 24 24"><path d="M3 4h8l10 10-7 7L4 11zM7.5 8.5h.01"/></symbol>
+<symbol id="i-order" viewBox="0 0 24 24"><path d="M6 3h12v18H6zM9 8h6M9 12h6M9 16h4"/></symbol>
+<symbol id="i-ledger" viewBox="0 0 24 24"><path d="M5 3h14v18H5zM5 8h14M5 13h14M5 18h14"/></symbol>
+<symbol id="i-shop" viewBox="0 0 24 24"><path d="M3 9l2-5h14l2 5M4 9v12h16V9M3 9h18M9 21v-6h6v6"/></symbol>
+<symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/></symbol>
+<symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a6 6 0 0 1 16 0v2"/></symbol>
+<symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 3 2 21h20zM12 10v5M12 18h.01"/></symbol>
+<symbol id="i-shelf" viewBox="0 0 24 24"><path d="M3 4v16M21 4v16M3 9h18M3 15h18M6 6h4M6 12h7M6 18h5"/></symbol>
+</defs>
+</svg>

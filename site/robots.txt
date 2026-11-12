@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /app
+Disallow: /admin
+Disallow: /login
+Disallow: /signup
+
+Sitemap: https://pasal-stock.sites.tab.bot/sitemap.xml

@@ -1,0 +1,17 @@
+{
+  "name": "pasal-stock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pasal Stock: stock, reorder alerts and supplier purchase orders for small shops (demo only)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node tools/local-server.mjs",
+    "test": "node --test --test-concurrency=1 tests/*.test.js",
+    "qa:browser": "python3 qa/browser_qa.py"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "repository": "https://github.com/nabinbabuuranw/pasal-stock"
+}

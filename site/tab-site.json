@@ -1,0 +1,5 @@
+{
+  "bindings": [
+    { "type": "d1", "name": "DB" }
+  ]
+}
